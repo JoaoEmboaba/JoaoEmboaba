@@ -10,6 +10,6 @@
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="JoaoVitor83-cplusplus" height="30" width="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="JoaoVitor83-visualstudio" height="30" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="center" alt="JoaoVitor83-visualstudio" height="25" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="center" alt="JoaoVitor83-Python" height="30" width="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
