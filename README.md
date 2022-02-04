@@ -1,16 +1,15 @@
-### Hi there 👋
+### Eai, sou o João ✌
 
-<!--
-**JoaoVitor83/JoaoVitor83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Eu estou atualmente aprendendo: Python e C++
+- 📫 Como você pode me contatar: vititor666demon@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/JoaoVitor83">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitor83&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor83&layout=compact&langs_count=7&theme=white"/>
+</div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-cplusplus" height="30" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="middle" alt="Rafa-visualstudio" height="30" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="center" alt="Rafa-Python" height="30" width="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
