@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor83&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-cplusplus" height="30" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="middle" alt="Rafa-visualstudio" height="30" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="center" alt="Rafa-Python" height="30" width="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="JoaoVitor83-cplusplus" height="30" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="middle" alt="JoaoVitor83-visualstudio" height="30" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="center" alt="JoaoVitor83-Python" height="30" width="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
