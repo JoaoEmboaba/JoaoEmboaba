@@ -12,4 +12,5 @@
 <img align="center" alt="JoaoVitor83-cplusplus" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="JoaoVitor83-visualstudio" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="center" alt="JoaoVitor83-Python" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" https://imagens.brasil.elpais.com/resizer/sdzoaMy4wqjKtOQzl9jh_9rHdkw=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/WQGOZS5S7D3DCLWMVVJM7S5VAQ.jpg
 </div>
