@@ -1,6 +1,6 @@
 ### Eai, sou o João ✌
 
-- 🌱 Eu estou atualmente aprendendo: Python e C++
+- 🌱 Eu estou atualmente aprendendo: Python e C#
 - 📫 Como você pode me contatar: vititor666demon@gmail.com
 
 <div align="center">
