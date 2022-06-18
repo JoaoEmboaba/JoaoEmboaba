@@ -15,5 +15,6 @@
 <img align="middle" alt="JoaoVitor83-C#" height="50" width="100" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
                                         
             
-<img align="middle" alt="JoaoVitor83-Python" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+<img align="middle" alt="JoaoVitor83-Java" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
+  
+  </div>
