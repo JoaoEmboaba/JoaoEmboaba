@@ -1,7 +1,7 @@
 ### Eai, sou o João ✌
 
 - 🌱 Eu estou atualmente aprendendo: Java e C#
-- 📫 Como você pode me contatar: vititor666demon@gmail.com
+- 📫 Como você pode me contatar: jvEmboaba17@gmail.com
 
 <div align="center">
   <a href="https://github.com/JoaoVitor83">
