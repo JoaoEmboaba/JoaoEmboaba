@@ -1,6 +1,6 @@
 ### Eai, sou o João ✌
 
-- 🌱 Eu estou atualmente aprendendo: Java e C#
+- 🌱 Eu estou atualmente aprendendo: Java e HTML
 - 📫 Como você pode me contatar: jvEmboaba17@gmail.com
 
 <div align="center">
