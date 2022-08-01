@@ -11,7 +11,7 @@
 <div style="display: inline_block, gap:500px"<br>
 <img align="center" alt="JoaoVitor83-mysql" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="JoaoVitor83-vscode" height="40" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="middle" alt="JoaoVitor83-C#" height="50" width="100" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />         
-<img align="middle" alt="JoaoVitor83-Java" height="" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="middle" alt="JoaoVitor83-C#" height="40" width="100" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />         
+<img align="middle" alt="JoaoVitor83-Java" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
   </div>
