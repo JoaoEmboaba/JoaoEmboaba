@@ -11,6 +11,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="JoaoVitor83-mysql" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="JoaoVitor83-vscode" height="50" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 <img align="middle" alt="JoaoVitor83-C#" height="50" width="100" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />                                 
             
