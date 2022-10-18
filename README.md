@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor83&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
-  ##
+  <hr>
   
   <div align="center" style="padding-top: 10rem"> 
   <a href="https://www.youtube.com/channel/UCbeyGMihFvrS5X2GI1K8ASw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
