@@ -1,6 +1,6 @@
 ### <h1> João Emboaba </h1>
 
-<hr></hr>
+<hr>
 
 - 🌱 Eu estou atualmente aprendendo: Node e Express
 - 📫 Como você pode me contatar: jemboaba17@gmail.com
