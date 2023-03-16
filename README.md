@@ -1,6 +1,6 @@
  <h1> João Emboaba </h1>
  
-- 🌱 Eu estou atualmente aprendendo: Node e Express
+- 🌱 Eu estou atualmente aprendendo: Spring e docker 
 - 📫 Como você pode me contatar: jemboaba17@gmail.com
 
 
