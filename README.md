@@ -5,7 +5,7 @@
 
 
 <div align="center" margin-botton: "10rem">
-  <a href="https://github.com/JoaoVitor83">
+  <a href="https://github.com/JoaoEmboaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoEmboaba&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEmboaba&layout=compact&langs_count=7&theme=aura"/>
 </div>
