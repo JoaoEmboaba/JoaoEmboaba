@@ -6,8 +6,8 @@
 
 <div align="center" margin-botton: "10rem">
   <a href="https://github.com/JoaoVitor83">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitor83&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor83&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoEmboaba&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEmboaba&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
  ## 
@@ -19,6 +19,6 @@
     <a href="https://www.linkedin.com/in/joao-emboaba-829a1222b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![snake gif](https://github.com/JoaoVitor83/JoaoVitor83/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/JoaoEmboaba/JoaoEmboaba/blob/output/github-contribution-grid-snake.svg)
   
 
