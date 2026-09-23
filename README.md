@@ -4,7 +4,7 @@
 
 Sou **Desenvolvedor de Software Full Stack**, atualmente trabalhando com **Java e Angular**, e estudante de **Ciência da Computação na FURB**.
 
-Minha jornada na tecnologia começou com desenvolvimento de software e, desde 2024, venho aprofundando meus conhecimentos em **Cloud Computing, AWS, DevOps e arquitetura de aplicações**.
+Minha jornada na tecnologia começou com desenvolvimento de software e, desde 2024, venho aprofundando meus conhecimentos em **Cloud Computing e AWS**.
 
 Gosto de entender não apenas como desenvolver uma aplicação, mas também **como ela funciona, é implantada, protegida, monitorada e escalada em ambientes reais**.
 
@@ -12,17 +12,14 @@ Gosto de entender não apenas como desenvolver uma aplicação, mas também **co
 
 ## 🚀 Sobre mim
 
-* 💻 **Full Stack Developer** com foco em **Java + Angular**
-* ☁️ Estudando e construindo projetos utilizando **AWS e Cloud Computing**
-* 🏗️ Interessado em **arquitetura de software, sistemas distribuídos e aplicações escaláveis**
-* 🔐 Experiência com **Spring Boot, Spring Security, JWT e APIs REST**
-* 🐘 Experiência com **PostgreSQL e bancos relacionais**
-* ⚙️ Interesse em **DevOps, CI/CD, Terraform e infraestrutura como código**
-* 🧪 Valorizo **testes automatizados, qualidade de código e boas práticas de engenharia**
-* 🎓 Estudante de **Ciência da Computação na FURB**
-* 🌎 **Líder Estudantil Campus Builder AWS**, compartilhando conhecimento sobre Cloud e AWS com outros estudantes
-* 📚 Acredito em **aprender construindo, documentar o conhecimento e compartilhar com a comunidade**
-
+* **Full Stack Developer** com foco em **Java + Angular**
+* Estudando e construindo projetos utilizando **AWS e Cloud Computing**
+* Interessado em **arquitetura de software, sistemas distribuídos e aplicações escaláveis**
+* Experiência com **Spring Boot, Spring Security, JWT e APIs REST**
+* Experiência com **PostgreSQL e bancos relacionais**
+* **Terraform e infraestrutura como código**
+* Estudante de **Ciência da Computação na FURB**
+* **Líder Estudantil Campus Builder AWS**, compartilhando conhecimento sobre Cloud e AWS com outros estudantes
 ---
 
 ## ☁️ Cloud & AWS
