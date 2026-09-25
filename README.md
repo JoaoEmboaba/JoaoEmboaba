@@ -222,4 +222,4 @@ Também tive experiência profissional na área de TI no **Hospital Santa Catari
 
 ---
 
-> **"Aprender, construir, documentar e compartilhar."** 🚀
+> **"Aprender, construir, documentar e compartilhar."**
