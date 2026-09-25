@@ -43,7 +43,7 @@ Alguns dos projetos e estudos que desenvolvi envolvem:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend
 
