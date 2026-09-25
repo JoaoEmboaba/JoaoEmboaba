@@ -22,7 +22,7 @@ Gosto de entender não apenas como desenvolver uma aplicação, mas também **co
 * **Líder Estudantil Campus Builder AWS**, compartilhando conhecimento sobre Cloud e AWS com outros estudantes
 ---
 
-## ☁️ Cloud & AWS
+## Cloud & AWS
 
 Minha jornada com Cloud Computing começou em **2024**, inicialmente buscando entender os fundamentos da computação em nuvem e, posteriormente, aprofundando-me no ecossistema AWS.
 
