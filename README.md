@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Vitor Machado Emboaba
+# 👋 Olá, eu sou João Emboaba
 
 ### Full Stack Developer | Java & Angular | Cloud & AWS
 
