@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Vitor Machado Emboaba
 
-### Full Stack Developer | Java & Angular | Cloud & AWS ☁️
+### Full Stack Developer | Java & Angular | Cloud & AWS
 
 Sou **Desenvolvedor de Software Full Stack**, atualmente trabalhando com **Java e Angular**, e estudante de **Ciência da Computação na FURB**.
 
@@ -10,7 +10,7 @@ Gosto de entender não apenas como desenvolver uma aplicação, mas também **co
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 * **Full Stack Developer** com foco em **Java + Angular**
 * Estudando e construindo projetos utilizando **AWS e Cloud Computing**
@@ -32,14 +32,14 @@ Tenho trabalhado e estudado conceitos envolvendo:
 
 Alguns dos projetos e estudos que desenvolvi envolvem:
 
-* 🧠 **Knowledge Bases com Amazon Bedrock + Aurora PostgreSQL + pgvector**
-* 🌐 **SPAs distribuídas com S3 + CloudFront**
-* 🔐 **Security Headers utilizando Lambda@Edge**
-* 📦 **APIs e aplicações containerizadas com Docker**
-* 🖥️ **Servidores Minecraft utilizando EC2, Docker e Lambda**
-* 🔑 **Upload seguro utilizando S3 Presigned URLs**
-* 🏗️ **Infraestrutura como código utilizando Terraform**
-* 🚀 **Pipelines CI/CD e deployments utilizando AWS**
+* **Knowledge Bases com Amazon Bedrock + Aurora PostgreSQL + pgvector**
+* **SPAs distribuídas com S3 + CloudFront**
+* **Security Headers utilizando Lambda@Edge**
+* **APIs e aplicações containerizadas com Docker**
+* **Servidores Minecraft utilizando EC2, Docker e Lambda**
+* **Upload seguro utilizando S3 Presigned URLs**
+* **Infraestrutura como código utilizando Terraform**
+* **Pipelines CI/CD e deployments utilizando AWS**
 
 ---
 
@@ -90,7 +90,7 @@ Alguns dos projetos e estudos que desenvolvi envolvem:
 
 ---
 
-## 🏅 Certificações
+## Certificações
 
 ### AWS Certified Cloud Practitioner
 
@@ -99,34 +99,34 @@ Alguns dos projetos e estudos que desenvolvi envolvem:
 </a>
 
 **Amazon Web Services (AWS)**
-📅 Emitida em: **maio de 2024**
-📅 Válida até: **maio de 2027**
+Emitida em: **maio de 2024**
+Válida até: **maio de 2027**
 
 🔗 [Ver certificação no Credly](https://www.credly.com/users/joao-vitor-machado-emboaba/badges/credly)
 
 ---
 
-## 🌎 AWS Builder Center
+## AWS Builder Center
 
 Atualmente atuo como **Líder Estudantil Campus Builder AWS**, participando de iniciativas voltadas à disseminação de conhecimento sobre Cloud Computing e AWS dentro da comunidade acadêmica.
 
 Como parte dessa experiência, tenho produzido e compartilhado conteúdos sobre:
 
-* ☁️ Cloud Computing e AWS
-* 🏗️ Arquitetura de aplicações
-* 🔐 Segurança na Cloud
-* 🚀 Serverless
-* 🧠 Amazon Bedrock e IA
-* 📚 Preparação para certificações AWS
-* 👨‍💻 Projetos práticos e experiências de desenvolvimento
+* Cloud Computing e AWS
+* Arquitetura de aplicações
+* Segurança na Cloud
+* Serverless
+* Amazon Bedrock e IA
+* Preparação para certificações AWS
+* Projetos práticos e experiências de desenvolvimento
 
 Também mantenho materiais de estudo e documentação técnica para compartilhar conhecimento com outros estudantes e membros da comunidade.
 
 ---
 
-## 📚 Alguns projetos e estudos
+## Alguns projetos e estudos
 
-### 🗓️ Scheduly
+### Scheduly
 
 Plataforma de agendamento multi-tenant desenvolvida com **Spring Boot**, com foco em arquitetura modular, autenticação, autorização e isolamento de tenants.
 
@@ -135,7 +135,7 @@ Plataforma de agendamento multi-tenant desenvolvida com **Spring Boot**, com foc
 
 ---
 
-### 🛍️ Ahmory
+### Ahmory
 
 Projeto de e-commerce desenvolvido com **Spring Boot**, explorando integração com pagamentos, emissão fiscal, infraestrutura AWS e arquitetura preparada para crescimento.
 
@@ -144,25 +144,29 @@ Projeto de e-commerce desenvolvido com **Spring Boot**, explorando integração 
 
 ---
 
-### 🤖 Amazon Bedrock + Aurora PostgreSQL
+### Amazon Bedrock + Aurora PostgreSQL
 
 Projeto de estudo utilizando **Amazon Bedrock Knowledge Bases** integrado a **Aurora PostgreSQL + pgvector**, explorando arquiteturas de RAG e recuperação de conhecimento.
 
 **Tecnologias:**
 `Amazon Bedrock` `Aurora PostgreSQL` `pgvector` `S3` `Terraform`
 
+Link do artigo: https://medium.com/@jemboaba/configurando-uma-base-de-conhecimentos-no-amazon-bedrock-utilizando-o-aurora-postgresql-e-terraform-5463627035fe?source=user_profile_page---------2-------------a26e4e4af90b------------------------
+
 ---
 
-### 🎮 Minecraft na AWS
+### Minecraft na AWS
 
 Projeto prático explorando a infraestrutura AWS através da criação de um servidor Minecraft utilizando **EC2, Docker e Lambda** para automações.
 
 **Tecnologias:**
 `EC2` `Docker` `Lambda` `AWS`
 
+Link do artigo: https://medium.com/@jemboaba/criando-o-seu-pr%C3%B3prio-servidor-de-minecraft-utilizando-ec2-e-lambda-f4a0df6cdc35
+
 ---
 
-## 📝 Conteúdo técnico
+## Conteúdo técnico
 
 Também utilizo projetos pessoais e a comunidade AWS Builder Center para documentar aquilo que aprendo.
 
@@ -180,7 +184,7 @@ Alguns dos assuntos que já explorei:
 
 ---
 
-## 🎓 Formação
+## Formação
 
 **FURB — Universidade Regional de Blumenau**
 🎓 Ciência da Computação
@@ -188,7 +192,7 @@ Alguns dos assuntos que já explorei:
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 **Senior Sistemas**
 `Desenvolvedor de Software II` · `12/2025 — atualmente`
@@ -202,9 +206,9 @@ Anteriormente:
 * **Desenvolvedor de Software I** — 10/2023 → 12/2025
 * **Estagiário de Desenvolvimento de Software** — 05/2023 → 10/2023
 
-Também tive experiência profissional na área de TI no **Hospital Santa Catarina** e em projetos como desenvolvedor freelancer.
+Também tive experiência profissional na área de TI no **Hospital Santa Catarina** e em projetos como desenvolvedor freelancer em SAAS usando sequelize e nodejs.
 
-## 🤝 Vamos nos conectar?
+## Vamos nos conectar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joao-emboaba">
@@ -213,10 +217,6 @@ Também tive experiência profissional na área de TI no **Hospital Santa Catari
 
   <a href="https://www.credly.com/users/joao-vitor-machado-emboaba/badges/credly">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/JoaoEmboaba">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
