@@ -4,7 +4,7 @@
 
 Sou **Desenvolvedor de Software**, atualmente trabalhando com **Java e Angular**, e estudante de **Ciência da Computação na Universidade regional de Blumenau**.
 
-Minha jornada na tecnologia começou com desenvolvimento de software em 2023 e, desde 2024, venho aprofundando meus conhecimentos em **Cloud Computing e AWS**.
+Minha jornada na tecnologia começou com desenvolvimento de software em 2021 e, desde 2024, venho aprofundando meus conhecimentos em **Cloud Computing e AWS**.
 
 -------------------------------------
 
