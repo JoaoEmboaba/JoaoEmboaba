@@ -1,20 +1,12 @@
 # 👋 Olá, eu sou João Emboaba
 
-### Full Stack Developer | Java & Angular | Cloud & AWS
+### Software Developer | Java & Angular | Cloud & AWS
 
-Sou **Desenvolvedor de Software Full Stack**, atualmente trabalhando com **Java e Angular**, e estudante de **Ciência da Computação na Universidade regional de Blumenau**.
+Sou **Desenvolvedor de Software**, atualmente trabalhando com **Java e Angular**, e estudante de **Ciência da Computação na Universidade regional de Blumenau**.
 
-Minha jornada na tecnologia começou com desenvolvimento de software e, desde 2024, venho aprofundando meus conhecimentos em **Cloud Computing e AWS**.
+Minha jornada na tecnologia começou com desenvolvimento de software em 2023 e, desde 2024, venho aprofundando meus conhecimentos em **Cloud Computing e AWS**.
 
-Gosto de entender não apenas como desenvolver uma aplicação, mas também **como ela funciona, é implantada, protegida, monitorada e escalada em ambientes reais**.
-
----
-
-## Sobre mim
-
-
-
----
+-------------------------------------
 
 ## Certificações
 
@@ -30,7 +22,7 @@ Válida até: **maio de 2027**
 
 🔗 [Ver certificação no Credly](https://www.credly.com/users/joao-vitor-machado-emboaba/badges/credly)
 
----
+-------------------------------------
 
 ## AWS Builder Center
 
@@ -48,9 +40,19 @@ Como parte dessa experiência, tenho produzido e compartilhado conteúdos sobre:
 
 Também mantenho materiais de estudo e documentação técnica para compartilhar conhecimento com outros estudantes e membros da comunidade.
 
----
+[Link do meu perfil na plataforma](https://builder.aws.com/community/@jemboaba)
+
+-------------------------------------
 
 ## Alguns projetos e estudos
+
+### Uploader
+
+App desktop que comprime e persiste arquivos na nuvem, disponibilzando uma URL assinada para compartilhamento entre interessados
+
+Em desenvolvimento...
+
+---
 
 ### Ahmory
 
