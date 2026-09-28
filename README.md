@@ -18,8 +18,8 @@ Gosto de entender não apenas como desenvolver uma aplicação, mas também **co
 * Experiência com **Spring Boot, Spring Security, JWT e APIs REST**
 * Experiência com **PostgreSQL e bancos relacionais**
 * **Terraform e infraestrutura como código**
-* Estudante de **Ciência da Computação na FURB**
-* **Líder Estudantil Campus Builder AWS**, compartilhando conhecimento sobre Cloud e AWS com outros estudantes
+* Estudante de **Ciência da Computação na Universidade Regional de Blumenau (FURB)**
+* **Líder Estudantil Campus Builder AWS**, compartilhando conhecimento sobre Cloud e AWS com outros estudantes no meu campus.
 ---
 
 ## Cloud & AWS
