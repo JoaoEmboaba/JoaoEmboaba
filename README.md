@@ -52,21 +52,14 @@ Também mantenho materiais de estudo e documentação técnica para compartilhar
 
 ## Alguns projetos e estudos
 
-### Scheduly
-
-Plataforma de agendamento multi-tenant desenvolvida com **Spring Boot**, com foco em arquitetura modular, autenticação, autorização e isolamento de tenants.
-
-**Tecnologias:**
-`Java` `Spring Boot` `Spring Security` `PostgreSQL` `JWT` `Maven` `Multi-tenancy`
-
----
-
 ### Ahmory
 
-Projeto de e-commerce desenvolvido com **Spring Boot**, explorando integração com pagamentos, emissão fiscal, infraestrutura AWS e arquitetura preparada para crescimento.
+SPA com divulgação para produto, utilizando Angular SSR e estratégios de SEO na borda.
+
+[Link do site](https://www.ahmory.com/)
 
 **Tecnologias:**
-`Java` `Spring Boot` `AWS` `Docker` `PostgreSQL` `CloudFront` `Route 53`
+`Angular21` `Lambda` `S3` `Cloudfront` `Edge computing` `CDN` `Route 53`
 
 ---
 
@@ -89,24 +82,6 @@ Projeto prático explorando a infraestrutura AWS através da criação de um ser
 `EC2` `Docker` `Lambda` `AWS`
 
 Link do artigo: https://medium.com/@jemboaba/criando-o-seu-pr%C3%B3prio-servidor-de-minecraft-utilizando-ec2-e-lambda-f4a0df6cdc35
-
--------------------------------------
-
-## Conteúdo técnico
-
-Também utilizo projetos pessoais e a comunidade AWS Builder Center para documentar aquilo que aprendo.
-
-Alguns dos assuntos que já explorei:
-
-* Amazon S3 vs Cloudflare R2
-* Distribuição de SPAs utilizando CloudFront
-* Security Headers com Lambda@Edge
-* Amazon Bedrock + Aurora PostgreSQL
-* S3 Presigned URLs
-* EC2 + Docker
-* Serverless
-* Terraform
-* Cloud Computing e arquitetura AWS
 
 -------------------------------------
 
