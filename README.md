@@ -2,7 +2,7 @@
 
 ### Software Developer | Java & Angular | Cloud & AWS
 
-Sou **Desenvolvedor de Software**, atualmente trabalhando com **Java e Angular**, e estudante de **Ciência da Computação na Universidade regional de Blumenau**.
+Sou **Desenvolvedor de Software**, atualmente trabalhando com **Java e Angular**, e estudante no 3ª período de **Ciência da Computação na Universidade regional de Blumenau**.
 
 Minha jornada na tecnologia começou com desenvolvimento de software em 2021 e, desde 2024, venho aprofundando meus conhecimentos em **Cloud Computing e AWS**.
 
@@ -84,103 +84,6 @@ Projeto prático explorando a infraestrutura AWS através da criação de um ser
 `EC2` `Docker` `Lambda` `AWS`
 
 Link do artigo: https://medium.com/@jemboaba/criando-o-seu-pr%C3%B3prio-servidor-de-minecraft-utilizando-ec2-e-lambda-f4a0df6cdc35
-
--------------------------------------
-
-## Formação
-
-**FURB — Universidade Regional de Blumenau**
-🎓 Ciência da Computação
-`2025 — 2029`
-
--------------------------------------
-
-# Experiência Profissional
-
-## Senior Sistemas
-
-### Software Developer II
-**Tempo integral** · dez de 2025 - o momento
-
-Blumenau, Santa Catarina, Brasil
-
----
-
-### Software Developer I
-**Tempo integral** · out de 2023 - dez de 2025 · 2 anos e 3 meses
-
-Blumenau, Santa Catarina, Brasil
-
-Atuando em diversos times da unidade **Senior Flow**.
-
-Na arquitetura, trabalhei com práticas de **IaC (Infrastructure as Code)** utilizando tecnologias como **CloudFormation**, escrevendo templates em `.yml` e `.json`, além do uso de **Terraform** para padronização dos templates de infraestrutura dos projetos e acesso a máquinas via **SSH**.
-
-- Desenvolvimento de uma feature para implementar uma pipeline que apresentasse as versões dos projetos implantados no ambiente interno de testes através de um dashboard no **Grafana**.
-- Utilização de **API Gateway** com query params para armazenar informações dos snapshots dos projetos e posterior integração com o Grafana via fonte de dados.
-- Configuração parcial de um novo ambiente de testes internos.
-
-Atuando no time do **GED/SIGN**, produtos voltados à gestão eletrônica de documentos e assinatura eletrônica, auxiliando o time na entrega de tarefas com mais qualidade e visão sistêmica, tomando cuidado para não quebrar outras pontas do projeto.
-
-Também contribuí com **bugs e SLAs**, sugerindo melhorias, implementações e refatorações nos produtos e no código.
-
-Nas guildas internas, tive a oportunidade de criar uma **base de conhecimento utilizando Amazon Bedrock**, utilizada em uma POC dos nossos produtos.
-
----
-
-### Estagiário de TI
-**Meio período** · mai de 2023 - dez de 2023 · 5 meses
-
-**Competências e aprendizados:** Mockito, Angular CLI, Java 17, mensageria, microsserviços.
-
----
-
-## Desenvolvedor — DG SYS
-
-**Software Sob Medida · Freelance**  
-out de 2024 - mai de 2025 · 8 meses
-
-Santa Catarina, Brasil · Remoto
-
-Desenvolvimento inicial do atual teste comportamental **DISC** para o SaaS **Colab-Life**, além de participação na manutenção e desenvolvimento de novas funcionalidades.
-
-Utilização e desenvolvimento com tecnologias modernas do mercado, como:
-
-- Node.js
-- Sequelize
-- Firebase
-- Angular
-- Entre outras
-
-**Projeto:** https://colab-life.web.app/disc-test
-
----
-
-## Assistente de Suporte — Hospital Santa Catarina de Blumenau
-
-**Meio período** · ago de 2022 - mai de 2023 · 10 meses
-
-Blumenau, Santa Catarina, Brasil
-
-Participação nos processos e auxílio no fluxo do setor, realizando:
-
-- Atendimento de ligações;
-- Auxílio nas dúvidas dos colaboradores sobre o sistema;
-- Suporte relacionado à área de TI e infraestrutura.
-
-**Competências:** Tasy, Atendimento ao cliente.
-
----
-
-## Desenvolvedor — SESI Serviço Social da Indústria SC
-
-**Terceirizado** · mar de 2021 - set de 2022 · 1 ano e 7 meses
-
-Santa Catarina, Brasil
-
-Auxílio no desenvolvimento do código-fonte do robô utilizado na competição da instituição.
-
-**Competências:** C++ e WPF
-
 
 -------------------------------------
 
